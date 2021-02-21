@@ -3,6 +3,12 @@ name = "test-makefile"
 version = "0.2.0-rc0"
 authors = ["crocme10 <matt@area403.org>"]
 edition = "2018"
+description = "Using Makefile for CI/CD"
+license = "MIT"
+repository = "git@github.com:crocme10/test-makefile.git"
+readme = "README.md"
+keywords = ["makefile"]
+categories = ["none"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
